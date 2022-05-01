@@ -27,7 +27,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #define EE_HANDS
 
 #undef RGBLED_NUM
-#define RGBLIGHT SLEEP
+#define RGBLIGHT_SLEEP
 #define RGBLIGHT_ANIMATIONS
 #define RGBLED_NUM 24
 #define RGBLIGHT_HUE_STEP 8
