@@ -91,7 +91,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   //├────────┼────────┼────────┼────────┼────────┼────────┼────────┼────────┐       ┌────────┼────────┼────────┼────────┼────────┼────────┼────────┼────────┤
      KC_LCTL ,KC_Z    ,KC_X    ,KC_C    ,KC_V    ,KC_B    ,KC_BSLS ,KC_PIPE ,        QUOTE   ,DBQUOTE ,KC_N    ,KC_M    ,KC_COMMA,KC_DOT  ,KC_MINS ,KC_SLASH,
   //├────────┼────────┼────────┼────────┼────┬───┴────┬───┼────────┼────────┤       ├────────┼────────┼───┬────┴───┬────┼────────┼────────┼────────┼────────┤
-  LT(1,KC_PAUSE),KC_LCTL ,KC_LGUI ,KC_LALT ,     LT(2,KC_NO),KC_BSPC,LT(4,KC_NO),       LT(5,KC_MINS),KC_SPC   ,LT(3,KC_DOT)  ,KC_DEL  ,KC_PSCR ,KC_INS,KC_RSHIFT  
+  LT(1,KC_PAUSE),KC_LCTL ,KC_LGUI ,KC_LALT ,LT(2,KC_NO),KC_BSPC,LT(4,KC_SLASH),     LT(5,KC_MINS),KC_SPC   ,LT(3,KC_DOT)  ,KC_DEL  ,KC_PSCR ,KC_INS,KC_RSHIFT  
   //└────────┴────────┴────────┴────────┘    └────────┘   └────────┴────────┘       └────────┴────────┘   └────────┘    └────────┴────────┴────────┴────────┘
   ),
 
