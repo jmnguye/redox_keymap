@@ -4,8 +4,11 @@ I activated tap dance : https://github.com/samhocevar-forks/qmk-firmware/blob/ma
 
 Update `rules.mk` with `TAP_DANCE_ENABLE = yes`
 
-copy all file in directory :
-`~/qmk_firmware/keyboards/redox/keymaps/KEYMAPNAME`
+clone the repo in:
+`~/qmk_firmware/keyboards/redox/keymaps/`
+
+don't forget to set the keymaps
+`qmk config user.keymap=redox_keymap` 
 
 compile the firmware first
 `qmk compile`
