@@ -4,6 +4,9 @@ I activated tap dance : https://github.com/samhocevar-forks/qmk-firmware/blob/ma
 
 Update `rules.mk` with `TAP_DANCE_ENABLE = yes`
 
+led count is updated with value 34 in info.json found in 
+`~/qmk_firmware/keyboards/redox/rev1`
+
 clone the repo in:
 `~/qmk_firmware/keyboards/redox/keymaps/`
 
