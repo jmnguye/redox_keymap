@@ -1,8 +1,7 @@
 # The default keymap for Redox
 
-I activated tap dance : https://github.com/samhocevar-forks/qmk-firmware/blob/master/docs/feature_tap_dance.md 
-
-Update `rules.mk` with `TAP_DANCE_ENABLE = yes`
+features have to be update
+`~/qmk_firmware/keyboards/redox/rev1`
 
 led count is updated with value 34 in info.json found in 
 `~/qmk_firmware/keyboards/redox/rev1`
