@@ -1,5 +1,8 @@
 # The default keymap for Redox
 
+ref :
+https://yanfali.github.io/keycodes/
+
 features have to be update
 `~/qmk_firmware/keyboards/redox/rev1`
 
